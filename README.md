@@ -1,5 +1,5 @@
-# info4nms
-R library of functions for data preparation and interactive infographic visualization
+# nms-web
+National Marine Sanctuaries webification of Condition Reports into online interactive infographics, general purpose project organizing repository
 
 ## Project
 
