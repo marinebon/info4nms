@@ -5,9 +5,16 @@ R library of functions for data preparation and interactive infographic visualiz
 
 NMS (National Marine Sanctuary) infographic websites:
 
+NEW:
+
 * [cinms](https://github.com/marinebon/cinms): Channel Islands
 * [mbnms](https://github.com/marinebon/mbnms): Monterey Bay
 * [ocnms](https://github.com/marinebon/ocnms): Olympic Coast
+
+OLD:
+
+* [info-fk](https://github.com/marinebon/info-fk): Florida Keys
+* [info-mb](https://github.com/marinebon/info-mb): Monterey Bay
 
 IEA (Integrated Ecosystem Assessment) infographic websites:
 
