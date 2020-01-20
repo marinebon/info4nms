@@ -1,6 +1,13 @@
 # info4nms
 R library of functions for data preparation and interactive infographic visualization
 
+## Project
+
+A Github Project organizes Issues (and Notes) across repositories into a workplan. Issues are arranged vertically (within a column) by priority and horizontally (in columns) over time. Filters by assignee, tag, etc can be applied.
+
+- [nms-web](https://github.com/orgs/marinebon/projects/2)
+
+
 ## Repositories
 
 NMS (National Marine Sanctuary) infographic websites:
